@@ -5,7 +5,7 @@ Validate syntax for basic statements such as variable declarations and print sta
 Generate code and execute print statements, including printing variable values and string literals.
 The program allows multiple lines of input, and each line is processed separately to analyze, validate, and generate the desired output.
 
-Features
+Features:
 
 -Lexical Analysis: Tokenizes each line of code to identify variables, operators, keywords (int, print), and literals.
 
@@ -21,6 +21,7 @@ b.Variable Declarations: Supports simple variable declarations like int x = 10;,
 
 How to Use
 1. Input Format:
+   
     a.Variable declarations: int <variable_name> = <value>;
    
     b.Print statements: print(<variable_name>); or print("Some String");
