@@ -6,6 +6,7 @@ Generate code and execute print statements, including printing variable values a
 The program allows multiple lines of input, and each line is processed separately to analyze, validate, and generate the desired output.
 
 Features
+
 -Lexical Analysis: Tokenizes each line of code to identify variables, operators, keywords (int, print), and literals.
 
 -Syntax Validation: Checks for correct syntax, such as valid variable declarations and proper formatting of print statements.
